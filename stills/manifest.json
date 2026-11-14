@@ -1,0 +1,19 @@
+{
+  "updated": "2026-11-14",
+  "model": "openai/gpt-image-2.6/sunburst (fal), 2048x1152",
+  "frames": {
+    "S1_morning_wide": "https://v3b.fal.media/files/b/0ab2715d/wPIZ_lZXqVtJ0IeGM3iPE_yNxUUAtC.png",
+    "S2_anchor_day": "https://v3b.fal.media/files/b/0ab27151/WXZ-F3q5qFoHEJ5ZvvNky_60ZlBrUh.png",
+    "S3_note_insert": "https://v3b.fal.media/files/b/0ab2715d/IbOD4ecEWdA3ddQ8I298w_zoyHhE9L.png",
+    "S4_night_build": "https://v3b.fal.media/files/b/0ab2715e/eva9ESBXRf7gUdWVtZdwb_QcZYFRh9.png",
+    "S6_demo": "https://v3b.fal.media/files/b/0ab2715e/9AwYX0ZdghM6Re7QmSGXj_Kz3SgaQI.png",
+    "S8_glass_meeting": "https://v3b.fal.media/files/b/0ab2715e/DlikRFewQaqgPRxO2XaJD_R9v5CGEP.png",
+    "S9_drawer_moment": "https://v3b.fal.media/files/b/0ab2715f/415Chzla5dcoWTsQlZ5NT_uUHePEcI.png",
+    "EC_drawer_plate": "https://v3b.fal.media/files/b/0ab27152/ZeTbUS44DjTr1gMRkM0JW_Vz6YzFHC.png"
+  },
+  "status": {
+    "S4_night_build": "redo: not dark enough, same framing as S2",
+    "S2_anchor_day": "redo as true 35mm face close-up",
+    "S8_glass_meeting": "chart shows growth; replace slide in post"
+  }
+}
